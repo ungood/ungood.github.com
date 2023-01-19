@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+chapters:
+- url: https://onetrue.name/
+  title: Website
+- url: https://www.linkedin.com/in/ungood
+  title: LinkedIn
+- url: https://www.spaceneedle.com/webcam
+  title: Seattle, WA

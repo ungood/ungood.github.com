@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ungood-github-com"
+version = "2.0.0"
+description = "Resume for Jason Walker"
+authors = ["Jason Walker <ungood@onetrue.name>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.group.dev.dependencies]
+jupyter-book = "^0.13.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
