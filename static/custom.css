@@ -1,0 +1,33 @@
+div.admonition-contact {
+    background: none;
+    border: none;
+    border-bottom: 4px solid #23568E;
+    margin: 0;
+    padding: 0 0 1em 0;
+}
+
+.admonition-contact .admonition-title {
+    display: none;
+}
+
+.admonition-contact ul {
+    list-style: none;
+    margin: 0;
+}
+
+dl.field-list > dt {
+    font-weight: normal;
+    padding: 0;
+}
+
+div.body h1 {
+    font-size: 200%;    
+}
+
+div.body h2 {
+    font-size: 150%;    
+}
+
+div.body h3 {
+    font-size: 130%;    
+}

@@ -1,0 +1,6 @@
+### Build
+
+```
+make install
+make
+```

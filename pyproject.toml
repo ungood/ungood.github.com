@@ -10,7 +10,8 @@ packages = []
 python = "^3.9"
 
 [tool.poetry.group.dev.dependencies]
-jupyter-book = "^0.13.1"
+sphinx = "<6"
+myst-parser = ">0.18"
 
 [build-system]
 requires = ["poetry-core"]
