@@ -3,6 +3,7 @@
 ```{admonition} Contact
 * [jason@onetrue.name](mailto:jason@onetrue.name)
 * [https://www.linkedin.com/in/ungood](https://www.linkedin.com/in/ungood)
+* [https://github.com/ungood/](https://github.com/ungood/)
 * [Seattle, WA](https://www.spaceneedle.com/webcam)
 ```
 
