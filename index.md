@@ -8,8 +8,9 @@
 * [Seattle, WA](https://www.spaceneedle.com/webcam)
 ```
 
-Principal Software Engineer with over 15 years of experience in developing highly scalable, full-stack software,
-implementing...
+Principal Software Engineer with over 15 years of experience in developing highly-scalable full-stack software,
+implementing devops processes, and leading engineering teams. I have proven track record in shipping products
+that span embedded and cloud technologies in the logistics, aerospace, and autonomous vehicles industries.
 
 ## Cruise
 
