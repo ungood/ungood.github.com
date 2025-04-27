@@ -20,7 +20,7 @@ that span embedded and cloud technologies in the logistics, aerospace, and auton
 * Built comprehensive data analytics pipeline to monitor fleet connectivity health, predict low-connectivity areas, and identify hardware/software regressions.
 * Led cross-functional team of a dozen engineers spanning embedded and cloud software disciplines.
 
-**Technologies used:** Rust, Go, GCP, Kubernetes
+**Technologies used:** Rust, TypeScript, Go, GCP, Kubernetes, Terraform
 
 ## Amazon.com
 
